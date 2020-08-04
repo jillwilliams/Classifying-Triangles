@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(lightblue, blue);
+    font-family: "Indie Flower";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    margin: 15px 25px 45px 25px;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+#pic1, #pic2 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 1px blue solid;
+    outline: 2px white solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
