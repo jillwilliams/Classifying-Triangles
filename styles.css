@@ -8,12 +8,23 @@ body {
 h1 {
     text-align: center;
     text-decoration: underline;
+    font-size: 1.8rem;
 }
 #pic1, #pic2 {
     width: 50%;
     height: auto;
     margin-left: 25%;
     margin-right: 25%;
+    border: 1px blue solid;
+    outline: 2px white solid;
+}
+#pic3, #pic4, #pic5, #pic6, #pic7, #pic8, #pic9 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 15px;
+    margin-bottom: 15px;
     border: 1px blue solid;
     outline: 2px white solid;
 }
